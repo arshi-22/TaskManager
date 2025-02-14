@@ -14,3 +14,4 @@ npm start
 ```
 
 ## The application will run on http://localhost:3000/ by default.
+## The application is deployed on "https://task-manager-rho-livid.vercel.app/"
